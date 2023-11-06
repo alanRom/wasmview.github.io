@@ -1,4 +1,5 @@
-# WasmView.github.io
+# WasmView
+This repository host the source code for the WasmView tool described in our paper, "[WasmView: Visual Testing for WebAssembly Applications](https://alan-romano.github.io/WasmView_Visual_Testing_for_WebAssembly_Applications.pdf)." The video demo below shows how the tool is used and how the output is presented.
 
 ## [Video Demo](https://youtu.be/kjKxL7L7zxI)
 
